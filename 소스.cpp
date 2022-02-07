@@ -1,15 +1,6 @@
-#include <iostream>
-#include <cstring>
-#include "Printer.h"
+#include "5chapter.h"
 using namespace std;
 
-int main(void) {
-	Printer pnt;
-	pnt.SetString((char*) "Hello world!");
-	pnt.ShowString();
-	
-	pnt.SetString((char*)"I love C++");
-	pnt.ShowString();
-	return 0;
+int main() {
+	one();
 }
-
