@@ -158,6 +158,7 @@
     <ClInclude Include="2chapter.h" />
     <ClInclude Include="4chapter.h" />
     <ClInclude Include="5chapter.h" />
+    <ClInclude Include="6chapter.h" />
     <ClInclude Include="Calculator.h" />
     <ClInclude Include="Printer.h" />
     <ClInclude Include="Swap.h" />

@@ -44,5 +44,8 @@
     <ClInclude Include="5chapter.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="6chapter.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

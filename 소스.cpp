@@ -1,6 +1,8 @@
-#include "5chapter.h"
+#include "6chapter.h"
 using namespace std;
 
+
 int main() {
-	one();
+
+	two();
 }
