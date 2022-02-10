@@ -1,8 +1,7 @@
-#include "6chapter.h"
+#include "8chapter.h"
 using namespace std;
 
 
 int main() {
-
-	two();
+	seven();
 }
