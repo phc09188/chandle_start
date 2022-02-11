@@ -1,7 +1,5 @@
-#include "8chapter.h"
-using namespace std;
+#include "Practice_class.h"
 
-
-int main() {
+int main(){
 	seven();
 }
