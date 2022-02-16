@@ -72,3 +72,19 @@ void three() {
 	cout << p1.CParent::m_Name << "-" << p1.m_Name << endl;
 	cout << p2.CParent::m_Name << "-" << p2.m_Name << endl;
 }
+class CLength {
+public:
+	char len[20] = {};
+	CLength(const char* a) {
+		strcpy(len, a);
+	}
+	int GetLength() {
+		int length = strlen(len);
+		return length;
+	}
+
+};
+void four() {
+	CLength l = "abc";
+	cout << l.GetLength() << endl;
+}
