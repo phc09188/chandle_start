@@ -23,7 +23,7 @@
     <ClInclude Include="Calculator.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Swap.h">
+    <ClInclude Include="Profile.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Printer.h">
@@ -57,6 +57,12 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Practice_class.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="10chapter.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

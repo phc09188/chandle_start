@@ -140,7 +140,7 @@ public:
 			if (price == 500) {
 				w500 += num;
 			}
-			else if (price == 100) {
+			else if (price == 100) {`
 				w100 += num;
 			}
 			else if (price == 50) {
@@ -164,5 +164,30 @@ void seven() {
 	money_box s;
 	s.save();
 	s.total();
+
+}
+class Person
+{
+private:
+	char* name;
+	int age;
+public:
+	Person(const char* myname, int myage) {
+		int len = strlen(myname) + 1;
+		name = new char[len];
+		strcpy(name, myname);
+		age = myage;
+	}
+	void ShowPersonInfo() const {
+		cout << "이름 : " << name << endl;
+		cout << "나이 : " << age << endl;
+	}
+	~Person() {
+		delete[]name;
+	}
+};
+int charname(void) {
+	Person man("Park Hae Chan", 24);
+	man.ShowPersonInfo();
 
 }

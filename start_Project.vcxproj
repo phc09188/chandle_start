@@ -121,7 +121,7 @@
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <ConformanceMode>true</ConformanceMode>
+      <ConformanceMode>false</ConformanceMode>
       <AdditionalIncludeDirectories>C:\Users\user\Downloads\opencv\build\include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
@@ -138,7 +138,7 @@
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <ConformanceMode>true</ConformanceMode>
+      <ConformanceMode>false</ConformanceMode>
       <AdditionalIncludeDirectories>C:\Users\user\Downloads\opencv\build\include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
@@ -154,6 +154,7 @@
     <ClCompile Include="소스.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="10chapter.h" />
     <ClInclude Include="1chapter.h" />
     <ClInclude Include="2chapter.h" />
     <ClInclude Include="4chapter.h" />
@@ -163,9 +164,10 @@
     <ClInclude Include="8chapter.h" />
     <ClInclude Include="9chapter.h" />
     <ClInclude Include="Calculator.h" />
+    <ClInclude Include="Circle.h" />
     <ClInclude Include="Practice_class.h" />
     <ClInclude Include="Printer.h" />
-    <ClInclude Include="Swap.h" />
+    <ClInclude Include="Profile.h" />
     <ClInclude Include="3chapter.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
