@@ -1,6 +1,6 @@
 #pragma warning(disable:4996)
-#include "15chapter.h"
+#include "16chapter3.h"
 
 void main() {
-	two();
+	three();
 }

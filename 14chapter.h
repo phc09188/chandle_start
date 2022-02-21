@@ -58,29 +58,6 @@ public:
 	}
 	CCalc* a;
 	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
 	int m_Min;
 	int m_Max;
 

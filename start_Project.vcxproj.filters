@@ -80,5 +80,14 @@
     <ClInclude Include="15chapter.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="16chapter1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="16chapter2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="16chapter3.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
