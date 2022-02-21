@@ -1,9 +1,6 @@
 #pragma warning(disable:4996)
-#include <iostream>
-#include <cstring>
-#include "11chapter.h"
-using namespace std;
+#include "15chapter.h"
 
 void main() {
-	four();
+	two();
 }

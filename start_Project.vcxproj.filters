@@ -68,5 +68,17 @@
     <ClInclude Include="11chapter.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="12chapter.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="13chapter.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="14chapter.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="15chapter.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

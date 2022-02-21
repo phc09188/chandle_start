@@ -156,6 +156,10 @@
   <ItemGroup>
     <ClInclude Include="10chapter.h" />
     <ClInclude Include="11chapter.h" />
+    <ClInclude Include="12chapter.h" />
+    <ClInclude Include="13chapter.h" />
+    <ClInclude Include="14chapter.h" />
+    <ClInclude Include="15chapter.h" />
     <ClInclude Include="1chapter.h" />
     <ClInclude Include="2chapter.h" />
     <ClInclude Include="4chapter.h" />
